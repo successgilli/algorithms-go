@@ -17,7 +17,7 @@ func TestIsStrobogrammatic(t *testing.T) {
 		},
 		{
 			input: "1",
-			expected: true,
+			expected: true, 
 		},
 		{
 			input: "6",
